@@ -5,7 +5,7 @@ Passionné par la donnée et la stratégie commerciale, j’aide les entreprises
 
 ---
 
-## 🏅 Spécialiste Marketing & Sales Opération :
+## 🏅 Spécialiste Marketing & Sales Opérations :
 **Une double compétence technique et business** capable d'offrir une vision stratégique et opérationnelle, indispensable pour innover et répondre aux attentes des entreprises.
 
 **Ma valeur ajoutée :** proposer des solutions concrètes et faciliter la communication entre équipes techniques et métiers.
