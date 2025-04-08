@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Bienvenue sur mon profil !
 
-<!--
-**JeremieQueret/JeremieQueret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis **Jérémie QUERET**, Data Analyst. 
+Passionné par la donnée et la stratégie commerciale, j’aide les entreprises à transformer leurs données en leviers de performance grâce à une analyse approfondie des ventes et des tendances du marché. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏅 Spécialiste Marketing & Sales Opération :
+**Une double compétence technique et business** capable d'offrir une vision stratégique et opérationnelle, indispensable pour innover et répondre aux attentes des entreprises.
+
+**Ma valeur ajoutée :** proposer des solutions concrètes et faciliter la communication entre équipes techniques et métiers.
+
+---
+
+
+## 🎯 Ma Mission
+Détecter les opportunités, affiner les processus et fournir des recommandations actionnables pour booster la performance commerciale.
+
+---
+
+## 📊 Expertises : 
+- Analyse de données & Insights Clients;
+- Business Intelligence & Aide à la Décision;
+- Intelligence de Marché & Veille Concurrentielle;
+- Time Series Forecasting;
+- Machine Learning.
+
+---
+
+## 🧠 Soft Skills : 
+- Analyse & Synthèse; 
+- Pédagogie; 
+- Curiosité;
+- Résolution de problèmes & Pensée critique;
+- Communication & Collaboration transversale.
+
+---
+
+## 🛠️ Stack Outils :
+
+| **Compétences**              | **Technologies** |
+|-------------------------|----------------------------------------------------------------------------------------------------|
+| **Programmation**       | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white) ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
+| **Data Analysis**       | ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff) ![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff) ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
+| **Data Visualization**  | ![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff) ![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)  ![Seaborn](https://img.shields.io/badge/Seaborn-009688?style=flat&logo=python&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-239120?style=flat&logo=plotly&logoColor=white)
+| **Machine Learning**    | ![scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![mlflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+| **Collaboration Tools**    | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## Contactez-moi ! 
+
+- **LinkedIn**: [Jérémie QUERET](https://www.linkedin.com/in/jeremiequeret/)
