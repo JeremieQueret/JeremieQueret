@@ -50,4 +50,4 @@ Détecter les opportunités, affiner les processus et fournir des recommandation
 
 ## Contactez-moi ! 
 
-- **LinkedIn**: [Jérémie QUERET](https://www.linkedin.com/in/jeremiequeret/)
+<a href="https://www.linkedin.com/in/jeremiequeret/"><img heigt="24" src="https://github.com/JeremieQueret/JeremieQueret/blob/main/linkedin.png">
