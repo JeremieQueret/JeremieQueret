@@ -1,7 +1,7 @@
 # 👋 Bienvenue sur mon profil !
 
 Je suis **Jérémie QUERET**, Data Analyst. 
-Passionné par la donnée et la stratégie commerciale, j’aide les entreprises à transformer leurs données en leviers de performance grâce à une analyse approfondie des ventes et des tendances du marché. 
+J’aide les entreprises à transformer leurs données en leviers de croissance grâce à une analyse approfondie des ventes et des tendances du marché. 
 
 ---
 
