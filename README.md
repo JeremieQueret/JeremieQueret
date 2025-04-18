@@ -6,7 +6,7 @@ J’aide les entreprises à transformer leurs données en leviers de croissance 
 ---
 
 ## 🏅 Spécialiste Marketing & Sales Opérations :
-**Une double compétence technique et business** capable d'offrir une vision stratégique et opérationnelle, indispensable pour innover et répondre aux attentes des entreprises.
+**Une double compétence technique et business** capable d'offrir une vision stratégique et opérationnelle, indispensable pour innover et répondre aux enjeux des entreprises.
 
 **Ma valeur ajoutée :** proposer des solutions concrètes et faciliter la communication entre équipes techniques et métiers.
 
