@@ -14,7 +14,7 @@ J’aide les entreprises à transformer leurs données en leviers de croissance 
 
 
 ## 🎯 Ma Mission
-Détecter les opportunités, affiner les processus et fournir des recommandations actionnables pour booster la performance commerciale.
+**Analyser** les données afin d'identifier des insights, **automatiser** les processus puis **visualiser** les résultats de manière claire pour faciliter la prise de décision.
 
 ---
 
